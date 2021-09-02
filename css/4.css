@@ -1,0 +1,270 @@
+.aswin {
+  color: #ededed;
+  margin: auto;
+  position: absolute;
+  left: 700px;
+  bottom: 550px;
+  font-size: 70px;
+  font-family: "Tangerine", cursive;
+}
+
+.a {
+  color: #ededed;
+  position: absolute;
+  left: 650px;
+  font-size: 70px;
+  bottom: 425px;
+  font-family: "Tangerine", cursive;
+}
+
+.mount {
+  position: absolute;
+  height: 500px;
+  width: 400px;
+  left: 390px;
+  bottom: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e8f6ef;
+}
+.top {
+  background-color: #b8dfd8;
+  height: 500px;
+  position: relative;
+  padding: 0px;
+  width: 100%;
+  padding-top: 150px;
+  margin: 0rem;
+}
+
+.cloud {
+  height: 100px;
+  width: 200px;
+  bottom: 50px;
+  position: absolute;
+  top: 100px;
+  right: 250px;
+}
+.cloud2 {
+  height: 100px;
+  width: 200px;
+  position: absolute;
+  left: 250px;
+}
+.mount2 {
+  position: absolute;
+
+  height: 500px;
+  width: 400px;
+  right: 390px;
+  bottom: 0px;
+}
+
+.mount3 {
+  position: absolute;
+  bottom: 100px;
+  height: 400px;
+  width: 250px;
+  right: 200px;
+  bottom: 0px;
+}
+.mount4 {
+  position: absolute;
+  bottom: 100px;
+  height: 400px;
+  width: 250px;
+  left: 200px;
+  bottom: 0px;
+}
+.mount5 {
+  position: absolute;
+  bottom: 100px;
+  height: 200px;
+  width: 150px;
+  left: 50px;
+  bottom: 0px;
+}
+.mount6 {
+  position: absolute;
+  bottom: 100px;
+  height: 200px;
+  width: 150px;
+  right: 50px;
+  bottom: 0px;
+}
+.bird {
+  position: absolute;
+  height: 150px;
+  left: 400px;
+  bottom: 400px;
+}
+
+.bird2 {
+  position: absolute;
+  height: 150px;
+  right: 380px;
+  bottom: 300px;
+}
+
+.mid {
+  background-color: #e8f6ef;
+  height: 500px;
+
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0%;
+}
+.profile {
+  height: 200px;
+  width: 150px;
+  border-radius: 30px;
+  top: 30px;
+}
+
+hr {
+  border: dotted #579696;
+  border-bottom: none;
+
+  border-width: 5px;
+  width: 4%;
+  margin: 50px auto 0;
+}
+
+.Skill-row {
+  width: 50%;
+  margin: 0 auto 0 auto;
+  top: 100px;
+  padding: 80px;
+}
+
+.web {
+  float: left;
+  margin-right: 30px;
+}
+.hob {
+  text-align: center;
+}
+
+.game {
+  float: right;
+  margin-right: 30px;
+}
+
+.p3 {
+  margin: 50px 0 0 0;
+}
+.skills {
+  background-color: #e8f6ef;
+}
+.profile {
+  margin: 40px 0 0 0;
+  border-radius: 40%;
+}
+.web1 {
+  position: relative;
+  right: 260px;
+}
+.hob {
+  margin-top: 0%;
+  position: relative;
+  top: 50px;
+  font-size: 50px;
+}
+p {
+  line-height: 2;
+}
+.bot {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(146, 214, 231);
+  padding: 50px 0 20px;
+  margin: auto;
+}
+.gamer {
+  position: relative;
+  left: 220px;
+  top: 20px;
+}
+.game {
+  position: relative;
+  top: 0px;
+  left: 5px;
+}
+.contact {
+  margin: 25px auto 50px;
+
+  height: 200px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 60px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.hr1 {
+  border: dotted #579696;
+  border-bottom: none;
+  border-width: 5px;
+  width: 4%;
+  margin: auto;
+}
+.mes {
+  position: relative;
+  top: 20px;
+}
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.cr {
+  color: #eaf6f6;
+
+  padding: 30px 0;
+  margin: 0 0 0 0;
+}
+.p4 {
+  position: relative;
+  top: 10px;
+}
+p {
+  font-size: 17px;
+  font-family: "Dancing Script", cursive;
+  margin: 50px 0 0 0;
+}
+h2 {
+  font-family: "Courgette", cursive;
+  color: rgb(146, 214, 231);
+}
+h1 {
+  font-family: "Courgette", cursive;
+  color: rgb(146, 214, 231);
+}
